@@ -1,1 +1,4 @@
 This is a test of Git add
+This is the first change to the text file
+	List of groceries
+Bananas
