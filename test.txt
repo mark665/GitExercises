@@ -7,3 +7,5 @@ Oranges
 Blueberries
 Pineapple
 Watermelon
+Strawberries
+Kiwi
