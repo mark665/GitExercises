@@ -10,3 +10,5 @@ Watermelon
 Strawberries
 Kiwi
 Grapes
+Currents
+Tangerines
