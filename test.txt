@@ -12,3 +12,4 @@ Kiwi
 Grapes
 Currents
 Tangerines
+Pears
