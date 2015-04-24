@@ -5,3 +5,6 @@ Bananas
 Apples
 Oranges
 Flour Milk Eggs
+bread
+ice cream
+cookies
