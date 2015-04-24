@@ -10,3 +10,5 @@ ice cream
 cookies
 lettuce 
 dressing
+watermelon
+strawberries
