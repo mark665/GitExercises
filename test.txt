@@ -4,12 +4,4 @@ This is the first change to the text file
 Bananas
 Apples
 Oranges
-Blueberries
-Pineapple
-Watermelon
-Strawberries
-Kiwi
-Grapes
-Currents
-Tangerines
-Pears
+
