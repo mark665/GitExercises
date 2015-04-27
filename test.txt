@@ -12,5 +12,3 @@ lettuce
 dressing
 watermelon
 strawberries
-plastic plates
-
