@@ -1,1 +1,1 @@
-This is a test of the lifecycle fiel workflow
+This is a test of the lifecycle file workflow
