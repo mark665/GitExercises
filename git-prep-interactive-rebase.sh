@@ -38,3 +38,4 @@ for i in 0 1 2 ; do
 	git commit -m "\"BR_TWO change $i"\" FileC
 done
 
+git checkout master
