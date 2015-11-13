@@ -33,9 +33,11 @@ git checkout -b BR_TWO commit1
 
 touch FileC
 git add FileC
-for i in 0 1 2 ; do
+for i in 0 1 2 3 4 5 ; do
 	echo "Big Change $i" >> FileC
 	git commit -m "\"BR_TWO change $i"\" FileC
 done
+echo "change 5" >> FileA
+git commit -m "\"BR_TWO changes to FileA"\" FileA
 
 git checkout master
